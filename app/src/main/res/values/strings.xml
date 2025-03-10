@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dziennik treningowy</string>
+    <string name="entry_name_hint">Wprowadź nazwę wpisu</string>
+    <string name="entry_name_label">Tytuł treningu</string>
+    <string name="entry_localization_hint">Wprowadź lokalizację treningu</string>
+    <string name="entry_localization_label">Lokalizacja siłowni</string>
+    <string name="entry_description_label">Przebieg treningu</string>
+    <string name="entry_description_hint">Wpisz przebieg treningu…</string>
+    <string name="entry_instructions_label">Film instruktażowy</string>
+
+    <string name="entry_video_hint">Link do filmu</string>
+    <string name="entry_video_label">…</string>
+
+    <string name="entry_done_label">Trening został wykonany</string>
+    <string name="entry_add_new">Nowy trening</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%1$d treningów</string>
+
+    <string name="trainings_categories">Moje treningi</string>
+    <string name="trainings_today">Na dziś</string>
+    <string name="trainings_done">Wykonane</string>
+    <string name="trainings_delete">Usuń</string>
+    <string name="add_entry_button_label">+</string>
+    <string name="entry_dot">*</string>
+
+</resources>

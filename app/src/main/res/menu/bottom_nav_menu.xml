@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/botmenu_action_mine"
+        android:title="@string/trainings_categories"/>
+    <item
+        android:id="@+id/botmenu_action_today"
+        android:title="@string/trainings_today"/>
+    <item
+        android:id="@+id/botmenu_action_done"
+        android:title="@string/trainings_done"/>
+</menu>
